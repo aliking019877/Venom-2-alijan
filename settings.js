@@ -19,11 +19,11 @@ global.packname = 'Sticker By'
 global.author = 'David_Cyril\n\nContact: +2349066528353'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '😈'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://t.me/alimaster012'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -63,7 +63,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/IMG_20240804_025902_231.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
